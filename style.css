@@ -1,0 +1,27 @@
+body {
+    background-color: #f0e8c5;
+    text-align: center;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px background-color:#FFFFFF;
+}
+
+p {
+    background-color: forestgreen;
+    color: #FFFFFF;
+}
+
+div {
+    margin-top: 15px;
+}
+
+img {
+    width: 200px;
+}
